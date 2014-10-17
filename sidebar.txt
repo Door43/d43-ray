@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ray:home|Door43 (ray)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ray|d43-ray repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ray/archive/master.zip|d43-ray.zip]]
+
+**Recent Changes**
+{{changes>ns = ray}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ray|Ethnologue data]]
+
